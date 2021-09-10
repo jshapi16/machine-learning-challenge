@@ -9,7 +9,7 @@ When astronomers see objects in space, how can they tell whether or not the obje
 The model begins with a RandomForestClassifier to select most impactful features. Although these features may not be the most impactful when not using a Random Forest model, it helepd narrow the data to preform a grid search. 
 Selected the top 5 features, isolated training and testing data, scaled it using a MinMaxScaler and ran the grid search. 
 
-![Grid Search Setup](https://github.com/jshapi16/machine-learning-challenge/blob/main/images/Screen%20Shot%202021-09-09%20at%204.17.36%20PM.png?raw=true)
+![Grid Search Setup](https://github.com/jshapi16/machine-learning-challenge/blob/main/images/grid_search_setup.png?raw=true)
 
 Figure 1
 
